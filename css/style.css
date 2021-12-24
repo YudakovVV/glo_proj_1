@@ -1,0 +1,44 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  width: 406px;
+  min-height: 561px;  
+}
+.tariff-card { 
+  padding-top: 61px;
+  padding-left: 49px;
+  padding-right: 49px;
+  padding-bottom: 50px;
+  text-align: center; 
+  display: inline-block;
+  border: solid #e8e8e8 1px;
+  width: 100%;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.title {  
+  margin-bottom: 35px;  
+  font-size: 16pt;
+}
+.price {  
+  margin-bottom: 49px;
+  color: #5ba2a9;
+}
+.sum {
+  font-size: 48pt;
+}
+.wall {
+  font-size: 18pt;
+  margin-left: 13px;
+}
+.description {
+  margin-bottom: 46px;
+  font-size: 14pt;
+}
+.button {  
+  border: solid #e8e8e8 2px;
+  text-transform: uppercase;
+  padding: 22px 28px 21px 32px;
+}
